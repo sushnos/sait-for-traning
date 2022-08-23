@@ -1,0 +1,23 @@
+p {
+    background-color: rgb(213, 153, 153);
+    font-family: 'Times New Roman', Times, seri;
+    padding: 5px;
+    margin: 3px;
+}
+
+.sneek {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    background-attachment: fixed;
+    background-color: blanchedalmond;
+    border: 5px solid rgb(184, 82, 82);
+    border-radius: 2px;
+    margin: 1px 1px 1px 1px;
+    
+}
+
+.bool {
+    font-style: italic;
+    background-color: #FF6699;
+
+}
